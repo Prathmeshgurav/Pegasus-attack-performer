@@ -1,2 +1,3 @@
 # Pegasus-attack-performer
 This tool generates a pegasus spyware like spyware and sends it to the victim phone and when victim open the sms you get reverse connection 
+ BIG DISCLAIMER THIS TOOL IS FOR EDUCATIONAL PURPOSE ONLY ANY MISSUSE OF THIS TOOL IS ILLEGAL AND I DON NOT PROMOTE ANY ILLEGAL ACTIVITY AND IF YOU CAUGHT DOING ILLEGAL ACTIVITY USING MY TOOL I WILL NOT BE RESPONSIBLE USETHIS TOOL ON THE DEVICES YOU OWN UNDERSOOD NOW GO TO HELL !
